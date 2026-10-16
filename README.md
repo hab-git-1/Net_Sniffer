@@ -1,5 +1,3 @@
-# CodeAlpha Cybersecurity Internship - Task 1
-
 ## Project Title: Basic Network Sniffer
 
 ### Overview
